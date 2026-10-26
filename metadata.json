@@ -1,0 +1,8 @@
+{
+  "name": "Koperasi Islamicity Digital SuperApp",
+  "description": "Platform superaplikasi cerdas berdaya koperasi digital syariah terintegrasi dengan pasar kedaulatan pangan petani bebas tengkulak, enkripsi end-to-end, analitik real-time, dan kapabilitas offline-first.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
